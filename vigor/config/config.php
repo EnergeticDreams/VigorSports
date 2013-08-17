@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://127.0.0.1/CodeIgniter-Initilizr-IonAuth/';
+$config['base_url']	= 'http://72.177.254.197:81/vigor/';
 
 /*
 |--------------------------------------------------------------------------

@@ -3,3 +3,6 @@
 */logs/!index.html
 */cache/*
 */cache/!index.html
+/nbproject/private/
+/vigor/config/database.php
+/vigor/config/config.php
